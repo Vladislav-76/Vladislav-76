@@ -5,7 +5,7 @@ Yandex.Practicum graduate
 Languages and Tools: Python/Django/DRF/REST API/Nginx/SQLite/PostgreSQL/Docker/Yandex.Cloud/Unittest
 
 Contact me:
-![alt text](https://github.com/Vladislav-76/Vladislav-76/blob/main/PiRyYU51.jpg?raw=true)
+<p><a href="https://t.me/vladislav_gs"> <img src="https://github.com/Vladislav-76/Vladislav-76/blob/main/PiRyYU51.svg" height="32"/> </a></p>
 
 <!--
 **Vladislav-76/Vladislav-76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
