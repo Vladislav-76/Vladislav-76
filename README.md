@@ -1,4 +1,9 @@
-### Hi there 👋
+### Good day! 👋 I'm Vladislav - Python-developer.
+
+Languages and Tools: Python/Django/DRF/REST API/Nginx/SQLite/PostgreSQL/Docker/Yandex.Cloud/Unittest
+
+Contact me:
+
 
 <!--
 **Vladislav-76/Vladislav-76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
