@@ -1,5 +1,7 @@
 ### Good day! 👋 I'm Vladislav - Python-developer.
 
+Yandex.Practicum graduate
+
 Languages and Tools: Python/Django/DRF/REST API/Nginx/SQLite/PostgreSQL/Docker/Yandex.Cloud/Unittest
 
 Contact me:
