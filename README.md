@@ -1,4 +1,4 @@
-### Good day! 👋 I'm Vladislav - Python-developer.
+### Good day! 👋 I'm Vladislav – Python-developer.
 <hr></hr>
 
 #### Yandex.Practicum graduate
