@@ -6,6 +6,7 @@
 Languages and Tools: Python/Django/DRF/REST API/Nginx/SQLite/PostgreSQL/Docker/Yandex.Cloud/Unittest
 
 Contact me:
+--------------------
 <p><a href="https://t.me/vladislav_gs"> <img src="https://github.com/Vladislav-76/Vladislav-76/blob/main/PiRyYU51.svg" height="32"/> </a></p>
 
 <!--
